@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WheatherApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temperature_example">30°</string>
+    <string name="party_cloud">Party Cloudy</string>
+    <string name="howdy_user">Howdy, user</string>
+    <string name="bishkek">Bishkek</string>
+    <string name="humidity_example">61%</string>
+    <string name="humidity">Humidity</string>
+    <string name="uv_index">UV index</string>
+    <string name="uv_index_example">8.51</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="wind_speed_example">4 m/s</string>
+    <string name="min_max_temp">min/max temp</string>
+    <string name="more_info">more info</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="_1_00am_utc">1:00am</string>
+    <string name="see_all">See all</string>
+    <string name="week">Week</string>
+    <string name="my_city">My City</string>
+    <string name="edit">Edit</string>
+    <string name="description">ясно</string>
+    <string name="my_day">my day</string>
+</resources>
